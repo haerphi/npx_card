@@ -1,0 +1,23 @@
+{
+  "name": "@haerphi/card",
+  "version": "0.0.1",
+  "description": "My little npx card.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haerphi/npx_card.git"
+  },
+  "author": "Haerphi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haerphi/npx_card/issues"
+  },
+  "homepage": "https://github.com/haerphi/npx_card#readme",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2"
+  }
+}
